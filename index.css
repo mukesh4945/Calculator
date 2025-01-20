@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(121, 85, 37);
+}
+.color{
+    margin-left: 30%;
+    margin-top: 13%;
+    padding: 10px 80px;
+    background-color: chocolate;
+    width: 28%;
+    border: 2px solid black;
+}
+#oper{
+    border: 2px solid rgb(55, 226, 43);
+    height: 25px;
+    width: 45px;
+}
+.edit1{
+    border: 2px solid blueviolet;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    height: 25px;
+}
+.edit1:hover{
+   background-color: black;
+
+}
+.edit2{
+    border: 2px solid rgb(70, 31, 25);
+    height: 31px;
+    border-radius: 5px;
+    background-color: brown;
+}
+.edit2:hover{
+    background-color:rgb(29, 29, 166) ;
+    color: white;
+}
+.edit3{
+    border: 2px solid rgb(224, 52, 22);
+    height: 25px;
+    border-radius: 5px;
+}
